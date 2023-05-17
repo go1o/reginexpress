@@ -18,3 +18,9 @@ This app is a comprehensive solution designed to streamline the courier services
 - **Loyalty Points:** Customers earn loyalty points for package pickups and can redeem them for rewards or discounts.
 - **Express Delivery:** Additional loyalty points are awarded to customers for package pickup within 30 minutes of delivery requests.
 - **Package Damage Reporting:** Users can quickly report any package damage through the application's fast reporting system. This ensures prompt resolution and customer satisfaction 
+
+## Thank you for your attention 
+
+
+
+![ty for your attention](https://thumbs.dreamstime.com/b/thank-you-attention-symbol-concept-words-thank-you-your-attention-wooden-blocks-beautiful-orange-table-orange-thank-248851309.jpg)
